@@ -1,0 +1,14 @@
+TODO:
+
+1)Have user select language
+
+2)Extension selects a random word at the top third(or half) of the page.
+-Highlight word
+-Save word to variable
+-GoogleApi to translate
+-Highlight disappears
+
+3)original word & translated word show up in a small text box. 
+-box disappears but keeps the translated word.
+
+
